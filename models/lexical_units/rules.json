@@ -550,10 +550,6 @@
         "Being_at_risk": 0.2727272727272727,
         "Risky_situation": 0.7272727272727273
     },
-    "rule out_v": {
-        "Deciding": 0.7142857142857143,
-        "Evidence": 0.2857142857142857
-    },
     "freezing_a": {
         "Ambient_temperature": NaN,
         "Subjective_temperature": NaN,
@@ -1611,10 +1607,6 @@
         "Quantified_mass": 1.0,
         "Quantity": 0.0,
         "Rank": 0.0
-    },
-    "at least_adv": {
-        "Presentation_of_mitigation": 0.7966101694915254,
-        "Proportional_quantity": 0.2033898305084746
     },
     "catch_v": {
         "Catching_fire": 0.0,
@@ -2749,10 +2741,6 @@
         "Thriving": 0.0,
         "Touring": 0.0
     },
-    "byzantine_a": {
-        "Origin": 0.875,
-        "System_complexity": 0.125
-    },
     "bad_a": {
         "Desirability": 0.782312925170068,
         "Expertise": 0.05442176870748299,
@@ -2786,10 +2774,6 @@
         "Categorization": 0.9833333333333333,
         "Regard": 0.016666666666666666,
         "Topic": 0.0
-    },
-    "wake up_v": {
-        "Cause_to_wake": 0.3142857142857143,
-        "Waking_up": 0.6857142857142857
     },
     "ample_a": {
         "Size": 0.08823529411764706,
@@ -4097,10 +4081,6 @@
         "Grasp": 0.0,
         "Intentional_deception": 0.0,
         "Transition_to_state": 0.3401360544217687
-    },
-    "knowledgeable_a": {
-        "Awareness": 0.41509433962264153,
-        "Expertise": 0.5849056603773585
     },
     "mask_v": {
         "Eclipse": 1.0,
@@ -7576,10 +7556,6 @@
     "spokesperson_n": {
         "People_by_vocation": NaN,
         "Representative": NaN
-    },
-    "pull off_v": {
-        "Success_or_failure": 0.6410256410256411,
-        "Undressing": 0.358974358974359
     },
     "cool_v": {
         "Cause_temperature_change": 1.0,
