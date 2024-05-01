@@ -1,1 +1,0 @@
-This is where trained models for task 2 will be stored
